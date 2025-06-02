@@ -1,0 +1,11 @@
+NaN(not a number)
+None(for object data types)
+before handing we have to find where is the data missing
+
+method:
+innull()
+True-NaN
+False-value is present
+
+
+example:

@@ -1,0 +1,27 @@
+we can fill a estimated value in missing value by using inter polautign 
+10
+20
+NaN.....here can be 30
+40
+50
+
+liner inter polautign
+polynomial
+time
+
+
+why use it..?
+1-preserve data intergrity with RbT number
+2-smooth trends
+example:in a shop monthly - 
+1000
+2000
+3000
+NaN...3000
+4000
+3-avoid data loss
+
+
+
+method:
+interpolate()----estimated value on the bases of other nearby  
